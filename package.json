@@ -1,0 +1,10 @@
+// package.json
+{
+  "name": "simple-todo",
+  "version": "1.0.0",
+  "description": "A simple todo web app",
+  "main": "index.html",
+  "scripts": {},
+  "author": "loopslide",
+  "license": "MIT"
+}
